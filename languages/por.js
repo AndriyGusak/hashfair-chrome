@@ -38,6 +38,7 @@
             ita: 'Italiano',
             por: 'Portuguese',
             ind: 'Indonesia',
+            ukr: 'Ucraniano',
             modulesSetting: 'Módulos para iniciar',
             revenueShaForecast: 'Número de dias para calcular a previsão de receita de SHA',
             revenueScryptForecast: 'Número de dias para calcular a previsão de receita de SCRYPT',
