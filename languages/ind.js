@@ -37,6 +37,7 @@
             rus: 'Russian',
             ita: 'Italiano',
             ind: 'Indonesia',
+            ukr: 'Ukraina',   
             modulesSetting: 'Modul untuk inisiasi',
             revenueShaForecast: 'Hari yang dibutuhkan untuk menghitung perkiraan pembayaran SHA',
             revenueScryptForecast: 'Hari yang dibutuhkan untuk menghitung perkiraan pembayaran SCRYPT',
